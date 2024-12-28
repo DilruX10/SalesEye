@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Moose men’s Chap Slim fit polo Shirt – Alloy",
+        "price" : "650",
+        "description" : "Snazzy and Hip! Cool to the Core! Fashionable and Funky! Moose Men’s Polo T-shirts are out, a wide variety of your favorite colors/prints to choose from for your casual or semi-formal needs!\r\n\r\nFabric composition: 100% Cotton\r\nFabric pattern: Computer Jacquard\r\nFit type: Slim\r\nLength: Regular\r\nWash care instructions: Machine wash\r\nAdd on features: Button with front placket, EMB logo, Moose neck tape at neck circumference and slit open at bottom, Special chambray fabric used for back patch. Flat knit collar.",
+        "ratings" : 4,
+        "images" : [{
+            "public_id" : "products/amcbqrws0melu73vnclh",
+            "url" : "https://res.cloudinary.com/dr4kltizg/image/upload/v1681575136/products/amcbqrws0melu73vnclh.jpg"
+        }],
+        "category" : "Shirt",
+        "seller" : "Moose",
+        "stock" : 21,
+        "numOfReviews" : 1,
+        "reviews": []
+    },
+    {
+        "name" : "Signature slim pink fit Shirt",
+        "price" : "860",
+        "description" : "Snazzy and Hip! Cool to the Core! Fashionable and Funky! Moose Men’s Polo T-shirts are out, a wide variety of your favorite colors/prints to choose from for your casual or semi-formal needs!\r\n\r\nFabric composition: 100% Cotton\r\nFabric pattern: Computer Jacquard\r\nFit type: Slim\r\nLength: Regular\r\nWash care instructions: Machine wash\r\nAdd on features: Button with front placket, EMB logo, Moose neck tape at neck circumference and slit open at bottom, Special chambray fabric used for back patch. Flat knit collar.",
+        "ratings" : 1.65,
+        "images" : [{
+            "public_id" : "products/g4tzcneqehsnzmzjpdm7",
+            "url" : "https://res.cloudinary.com/dr4kltizg/image/upload/v1681575305/products/g4tzcneqehsnzmzjpdm7.jpg"
+        }],
+        "category" : "Shirt",
+        "seller" : "Signature",
+        "stock" : 16,
+        "numOfReviews" : 0,
+        "reviews": []
+    }  
+]
